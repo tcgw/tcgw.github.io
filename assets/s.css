@@ -1,15 +1,15 @@
 html,body,td,input{font:14px Tahoma,Arial,Helvetica,sans-serif}
-body{min-width:990px;margin:0;padding:0;background:#7ecd4e}
-#content h1{font-size:260%;font-weight:400;color:#666;margin:0;padding:0 0 2px}
+body{min-width:990px;margin:0;padding:0;background:#00A650}
+#content h1{font-size:260%;font-weight:400;color:#fff;margin:0;padding:0 0 2px}
 #content p,#sidebar p{line-height:160%;margin:0;padding:2px 0}
-#content a,#sidebar a{text-decoration:none;font-weight:700;color:#447725}
-#content a:hover,#sidebar a:hover{text-decoration:underline}
+#content a,#sidebar a{text-decoration:none;font-weight:700;color:#fff}
+#content a:hover,#sidebar a:hover{color:#02540a;text-decoration:underline}
 #wrap{width:990px;margin:0 auto}
 #logosearch{width:990px;height:60px;padding:10px 0}
-#logo{float:left;font-size:40px;color:#02540a}
-#plain{width:990px;height:20px;text-align:right;background:#7ecd4e}
+#logo{float:left;font-size:40px;color:#fff}
+#plain{width:990px;height:20px;text-align:right;background:#00A650}
 #commonpages{float:right;height:20px;text-align:right}
-#commonpages a{text-decoration:none;color:#000;margin:0;padding:0 5px 0 10px;font:11px verdana,Arial,Helvetica,sans-serif}
+#commonpages a{text-decoration:none;color:#fff;margin:0;padding:0 5px 0 10px;font:14px verdana,Arial,Helvetica,sans-serif}
 #commonpages a:hover{color:#02540a}
 #eyecatcher{width:990px;height:260px;padding:0}
 .picture_0{background:url(../images/peye1.jpg)}
@@ -18,8 +18,8 @@ body{min-width:990px;margin:0;padding:0;background:#7ecd4e}
 .picture_3{background:url(../images/peye4.jpg)}
 .picture_4{background:url(../images/peye5.jpg)}
 #trans{background-color:#fff;width:160px;height:260px;filter:alpha(opacity=40);-moz-opacity:.4;opacity:.4}
-#maintopic{position:absolute;float:left;top:100px;width:160px;font-size:12px;font-weight:700;text-align:left;height:260px;color:#000;border:0;margin:1px 0 0;padding:0}
-a.maintopic{display:block;height:21px;color:#000;text-decoration:none;border-bottom:1px dotted #02540a;padding:6px 5px 4px}
+#maintopic{position:absolute;float:left;top:100px;width:160px;font-size:24px;font-weight:700;text-align:left;height:260px;color:#000;border:0;margin:1px 0 0;padding:0}
+a.maintopic{display:block;height:24px;color:#000;text-decoration:none;border-bottom:1px dotted #fff;padding:6px 5px 4px}
 a.maintopic:hover{background-color:#fff;color:#000;filter:alpha(opacity=40);-moz-opacity:.4;opacity:.4}
 #content{float:left;width:100%;padding:20px 5px}
 #leftcontent{float:left}
