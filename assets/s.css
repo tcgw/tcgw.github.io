@@ -22,3 +22,5 @@ body{min-width:990px;margin:0;padding:0;background:#7ecd4e}
 a.maintopic{display:block;height:21px;color:#000;text-decoration:none;border-bottom:1px dotted #02540a;padding:6px 5px 4px}
 a.maintopic:hover{background-color:#fff;color:#000;filter:alpha(opacity=40);-moz-opacity:.4;opacity:.4}
 #content{float:left;width:100%;padding:20px 5px}
+#leftcontent{float:left}
+#rightcontent{float:right;width:40%}
