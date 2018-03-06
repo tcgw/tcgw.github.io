@@ -1,0 +1,159 @@
+html, body, td, input {
+	font: 14px Tahoma,Arial,Helvetica,sans-serif;
+}
+
+body {
+	min-width: 990px;
+	margin: 0;
+	padding: 0;
+	background: #00A650;
+}
+
+#content h1 {
+	font-size: 260%;
+	font-weight: 400;
+	color: #fff;
+	margin: 0;
+	padding: 0 0 2px;
+}
+
+#content p, #sidebar p {
+	line-height: 160%;
+	margin: 0;
+	padding: 2px 0;
+}
+
+#content a, #sidebar a {
+	text-decoration: none;
+	font-weight: 700;
+	color: #fff;
+}
+
+#content a:hover, #sidebar a:hover {
+	color: #02540a;
+	text-decoration: underline;
+}
+
+#logosearch {
+	width: 990px;
+	height: 60px;
+	padding: 10px 0;
+}
+
+#logo {
+	float: left;
+	font-size: 40px;
+	color: #fff;
+}
+
+#plain {
+	width: 990px;
+	height: 20px;
+	text-align: right;
+	background: #00A650;
+}
+
+#commonpages {
+	float: right;
+	height: 20px;
+	text-align: right;
+}
+
+#commonpages a {
+	text-decoration: none;
+	color: #fff;
+	margin: 0;
+	padding: 0 5px 0 10px;
+	font: 14px verdana,Arial,Helvetica,sans-serif;
+}
+
+#commonpages a:hover {
+	color: #02540a;
+}
+
+#eyecatcher {
+	width: 990px;
+	height: 260px;
+	padding: 0;
+}
+
+.picture_startseite {
+	background: url(../img/startseite.jpg);
+}
+
+.picture_termine {
+	background: url(../img/termine.jpg);
+}
+
+.picture_impressum {
+	background: url(../img/impressum.jpg);
+}
+
+.picture_vorstand {
+	background: url(../img/vorstand.jpg);
+}
+
+.picture_4 {
+	background: url(../img/pic4.jpg);
+}
+
+#trans {
+	background-color: #fff;
+	width: 160px;
+	height: 260px;
+	filter: alpha(opacity=40);
+	opacity: .4;
+	-moz-opacity: .4;
+}
+
+#maintopic {
+	position: absolute;
+	float: left;
+	top: 100px;
+	width: 160px;
+	font-size: 24px;
+	font-weight: 700;
+	text-align: left;
+	height: 260px;
+	color: #000;
+	border: 0;
+	margin: 1px 0 0;
+	padding: 0;
+}
+
+a.maintopic {
+	display: block;
+	height: 24px;
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px dotted #fff;
+	padding: 6px 5px 4px;
+}
+
+a.maintopic:hover {
+	background-color: #fff;
+	color: #000;
+	filter: alpha(opacity=40);
+	opacity: .4;
+	-moz-opacity: .4;
+}
+
+#content {
+	float: left;
+	width: 100%;
+	padding: 20px 5px;
+}
+
+#leftcontent {
+	float: left;
+}
+
+#rightcontent {
+	float: right;
+	width: 40%;
+}
+
+.section {
+	margin: 0 auto;
+	width: 990px;
+}
